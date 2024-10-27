@@ -6,6 +6,7 @@
        "precondition": [
            "The app is launched",
            "The app is opened", 
+       ],
        "steps": [
            "Tap the burger menu",
            "Tap the “About the app” item",
