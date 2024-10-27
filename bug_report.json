@@ -6,10 +6,11 @@
        "precondition": [
            "The app is launched",
            "The app is opened", 
+       ],
        "steps": [
            "Tap the burger menu",
            "Tap the “About the app” item",
        ],
        "actual_result": "The error 404 is displayed"
        "expected_result": "The page “About the app” is opened",
- }     
+ }
