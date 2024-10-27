@@ -12,5 +12,4 @@
        ],
        "actual_result": "The error 404 is displayed"
        "expected_result": "The page “About the app” is opened",
- }
-         
+ }     
